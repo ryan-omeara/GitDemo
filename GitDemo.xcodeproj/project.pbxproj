@@ -14,6 +14,7 @@
 		7CBACD282AC3914800B9FF37 /* GitDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CBACD272AC3914800B9FF37 /* GitDemoTests.swift */; };
 		7CBACD322AC3914800B9FF37 /* GitDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CBACD312AC3914800B9FF37 /* GitDemoUITests.swift */; };
 		7CBACD342AC3914800B9FF37 /* GitDemoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CBACD332AC3914800B9FF37 /* GitDemoUITestsLaunchTests.swift */; };
+		EBF699762AC3956700B7D799 /* lucas.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBF699752AC3956700B7D799 /* lucas.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		7CBACD2D2AC3914800B9FF37 /* GitDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CBACD312AC3914800B9FF37 /* GitDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitDemoUITests.swift; sourceTree = "<group>"; };
 		7CBACD332AC3914800B9FF37 /* GitDemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitDemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		EBF699752AC3956700B7D799 /* lucas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lucas.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				7CBACD182AC3914600B9FF37 /* ContentView.swift */,
 				7CBACD1A2AC3914800B9FF37 /* Assets.xcassets */,
 				7CBACD1C2AC3914800B9FF37 /* Preview Content */,
+				EBF699752AC3956700B7D799 /* lucas.swift */,
 			);
 			path = GitDemo;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7CBACD192AC3914600B9FF37 /* ContentView.swift in Sources */,
+				EBF699762AC3956700B7D799 /* lucas.swift in Sources */,
 				7CBACD172AC3914600B9FF37 /* GitDemoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
